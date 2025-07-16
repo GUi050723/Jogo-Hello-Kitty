@@ -93,6 +93,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -101,9 +114,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 5120
-        width: 256
-        height: 256
+        y: 4096
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -111,8 +124,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9215b77de4180874e9acfceb4cbce5ad
-      internalID: -414694327
+      spriteID: d2a949bf64742c846931ba5fe0d577d0
+      internalID: -1681705761
       vertices: []
       indices: 
       edges: []
@@ -121,10 +134,10 @@ TextureImporter:
       name: HelloKitty_Idle(Wave)_1
       rect:
         serializedVersion: 2
-        x: 0
-        y: 4864
-        width: 256
-        height: 256
+        x: 1024
+        y: 4096
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -132,8 +145,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ff477c4a76722494bad78c728aecf12d
-      internalID: -220114997
+      spriteID: 28a5412646605da49aca28ea9c3407d4
+      internalID: 2014008138
       vertices: []
       indices: 
       edges: []
@@ -142,10 +155,10 @@ TextureImporter:
       name: HelloKitty_Idle(Wave)_2
       rect:
         serializedVersion: 2
-        x: 0
-        y: 4608
-        width: 256
-        height: 256
+        x: 2048
+        y: 4096
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,8 +166,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 51411f6798d1ec04dbf1e07dd86275d1
-      internalID: 395639244
+      spriteID: 5cff39a5683e658498a53820c82c00bd
+      internalID: 198291622
       vertices: []
       indices: 
       edges: []
@@ -163,10 +176,10 @@ TextureImporter:
       name: HelloKitty_Idle(Wave)_3
       rect:
         serializedVersion: 2
-        x: 0
-        y: 4352
-        width: 256
-        height: 256
+        x: 3072
+        y: 4096
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -174,8 +187,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f167773f9ff6dbc4f9ed9923c60b4656
-      internalID: -1060198731
+      spriteID: 858a7bdff1c0d964a8ded2f658fcd85a
+      internalID: -1372506504
       vertices: []
       indices: 
       edges: []
@@ -185,9 +198,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 4096
-        width: 256
-        height: 256
+        y: 3072
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -195,8 +208,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4e729291af402dc4291fd5fe531865e4
-      internalID: -465814527
+      spriteID: a0316055dfedc0a4ba7cf600402dd392
+      internalID: 1560876412
       vertices: []
       indices: 
       edges: []
@@ -205,10 +218,10 @@ TextureImporter:
       name: HelloKitty_Idle(Wave)_5
       rect:
         serializedVersion: 2
-        x: 0
-        y: 3840
-        width: 256
-        height: 256
+        x: 1024
+        y: 3072
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -216,8 +229,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a96d19c189e5b954496c751956b530b1
-      internalID: 925142075
+      spriteID: 98de86908199e714aa1de04afd787ad5
+      internalID: -717136104
       vertices: []
       indices: 
       edges: []
@@ -226,10 +239,10 @@ TextureImporter:
       name: HelloKitty_Idle(Wave)_6
       rect:
         serializedVersion: 2
-        x: 0
-        y: 3584
-        width: 256
-        height: 256
+        x: 2048
+        y: 3072
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -237,8 +250,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1ec2a637d7c7f46428bbe9c9e8e3fdb2
-      internalID: -1249619164
+      spriteID: d7ebc645884c1be4696e12cca6616ac4
+      internalID: 1253006693
       vertices: []
       indices: 
       edges: []
@@ -247,10 +260,10 @@ TextureImporter:
       name: HelloKitty_Idle(Wave)_7
       rect:
         serializedVersion: 2
-        x: 0
-        y: 3328
-        width: 256
-        height: 256
+        x: 3072
+        y: 3072
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -258,8 +271,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4b2b1269885aabb46a190845c47d6b91
-      internalID: -723723234
+      spriteID: 20336d7b3fd4ca1478a79321fef56598
+      internalID: 642958405
       vertices: []
       indices: 
       edges: []
@@ -269,9 +282,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 3072
-        width: 256
-        height: 256
+        y: 2048
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -279,8 +292,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ad26a3ae06588ec4c8a82e019446d10f
-      internalID: -743347257
+      spriteID: 950cbf548d5b6c247955cc0ab90f8bf9
+      internalID: -1417559091
       vertices: []
       indices: 
       edges: []
@@ -289,10 +302,10 @@ TextureImporter:
       name: HelloKitty_Idle(Wave)_9
       rect:
         serializedVersion: 2
-        x: 0
-        y: 2816
-        width: 256
-        height: 256
+        x: 1024
+        y: 2048
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -300,8 +313,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8097b6c79e0fd0a4685c787b9b8cba80
-      internalID: 1780231990
+      spriteID: 65246279f067ea14991b41503a47e9a5
+      internalID: -429114985
       vertices: []
       indices: 
       edges: []
@@ -310,10 +323,10 @@ TextureImporter:
       name: HelloKitty_Idle(Wave)_10
       rect:
         serializedVersion: 2
-        x: 0
-        y: 2560
-        width: 256
-        height: 256
+        x: 2048
+        y: 2048
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -321,8 +334,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4a83df01f68941d49a1573c3881d740b
-      internalID: -1426810282
+      spriteID: 082e61c4997611740a747d4ce9967fe9
+      internalID: -1300290753
       vertices: []
       indices: 
       edges: []
@@ -331,10 +344,10 @@ TextureImporter:
       name: HelloKitty_Idle(Wave)_11
       rect:
         serializedVersion: 2
-        x: 0
-        y: 2304
-        width: 256
-        height: 256
+        x: 3072
+        y: 2048
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -342,8 +355,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5bd29db2ff5a82347a3bd3b08551de5b
-      internalID: 118605253
+      spriteID: c3d8fa36d97aa32429ded6bbf77eb367
+      internalID: 424132092
       vertices: []
       indices: 
       edges: []
@@ -353,9 +366,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 2048
-        width: 256
-        height: 256
+        y: 1024
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -363,8 +376,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0221782cccb8bde4481be855716b05c8
-      internalID: 1236252815
+      spriteID: a2b4e260d8d90f74b8dff96201dcd9d9
+      internalID: 997664216
       vertices: []
       indices: 
       edges: []
@@ -373,10 +386,10 @@ TextureImporter:
       name: HelloKitty_Idle(Wave)_13
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1792
-        width: 256
-        height: 256
+        x: 1024
+        y: 1024
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -384,8 +397,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 88693919a48c09c438602e8a34148804
-      internalID: -146231642
+      spriteID: f73059a724367554882be32b4ed9c6e5
+      internalID: -1029226987
       vertices: []
       indices: 
       edges: []
@@ -394,10 +407,10 @@ TextureImporter:
       name: HelloKitty_Idle(Wave)_14
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1536
-        width: 256
-        height: 256
+        x: 2048
+        y: 1024
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -405,8 +418,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 45c320df9ef70964fa53e1a9b6847acf
-      internalID: -1421051707
+      spriteID: 0b160005c71c4de4d83608394062ad99
+      internalID: -96270119
       vertices: []
       indices: 
       edges: []
@@ -415,10 +428,10 @@ TextureImporter:
       name: HelloKitty_Idle(Wave)_15
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1280
-        width: 256
-        height: 256
+        x: 3072
+        y: 1024
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -426,8 +439,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 872b9de50389d11408cece354b112661
-      internalID: 864170332
+      spriteID: 443c9b9cbf2182440b02c339a19b8da9
+      internalID: 417489997
       vertices: []
       indices: 
       edges: []
@@ -437,9 +450,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 1024
-        width: 256
-        height: 256
+        y: 0
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -447,8 +460,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 613271624bac3a7469a5f5992a7049fe
-      internalID: 1457115910
+      spriteID: 4c8d7b3c654140b49a50488632d859b6
+      internalID: -288750636
       vertices: []
       indices: 
       edges: []
@@ -457,10 +470,10 @@ TextureImporter:
       name: HelloKitty_Idle(Wave)_17
       rect:
         serializedVersion: 2
-        x: 0
-        y: 768
-        width: 256
-        height: 256
+        x: 1024
+        y: 0
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -468,8 +481,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 34cdec523602d484ba4f170141787694
-      internalID: 1369234439
+      spriteID: a4afaacc5a021d9489632ba1ca5547ec
+      internalID: 1700659947
       vertices: []
       indices: 
       edges: []
@@ -478,52 +491,10 @@ TextureImporter:
       name: HelloKitty_Idle(Wave)_18
       rect:
         serializedVersion: 2
-        x: 0
-        y: 512
-        width: 256
-        height: 256
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 97ec1e40ea35b4e4ea2846470d77eb2b
-      internalID: 280041853
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: HelloKitty_Idle(Wave)_19
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 256
-        width: 256
-        height: 256
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 611d8b7d0706f26468b4366fe9de87c0
-      internalID: 423082830
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: HelloKitty_Idle(Wave)_20
-      rect:
-        serializedVersion: 2
-        x: 0
+        x: 2048
         y: 0
-        width: 256
-        height: 256
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -531,8 +502,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 792dd7fc46f1635479a30198ac38b8b5
-      internalID: -2086423090
+      spriteID: 9f704220bd116f647b2a9d7c8ab1dc10
+      internalID: -119798987
       vertices: []
       indices: 
       edges: []
@@ -548,27 +519,25 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      HelloKitty_Idle(Wave)_0: -414694327
-      HelloKitty_Idle(Wave)_1: -220114997
-      HelloKitty_Idle(Wave)_10: -1426810282
-      HelloKitty_Idle(Wave)_11: 118605253
-      HelloKitty_Idle(Wave)_12: 1236252815
-      HelloKitty_Idle(Wave)_13: -146231642
-      HelloKitty_Idle(Wave)_14: -1421051707
-      HelloKitty_Idle(Wave)_15: 864170332
-      HelloKitty_Idle(Wave)_16: 1457115910
-      HelloKitty_Idle(Wave)_17: 1369234439
-      HelloKitty_Idle(Wave)_18: 280041853
-      HelloKitty_Idle(Wave)_19: 423082830
-      HelloKitty_Idle(Wave)_2: 395639244
-      HelloKitty_Idle(Wave)_20: -2086423090
-      HelloKitty_Idle(Wave)_3: -1060198731
-      HelloKitty_Idle(Wave)_4: -465814527
-      HelloKitty_Idle(Wave)_5: 925142075
-      HelloKitty_Idle(Wave)_6: -1249619164
-      HelloKitty_Idle(Wave)_7: -723723234
-      HelloKitty_Idle(Wave)_8: -743347257
-      HelloKitty_Idle(Wave)_9: 1780231990
+      HelloKitty_Idle(Wave)_0: -1681705761
+      HelloKitty_Idle(Wave)_1: 2014008138
+      HelloKitty_Idle(Wave)_10: -1300290753
+      HelloKitty_Idle(Wave)_11: 424132092
+      HelloKitty_Idle(Wave)_12: 997664216
+      HelloKitty_Idle(Wave)_13: -1029226987
+      HelloKitty_Idle(Wave)_14: -96270119
+      HelloKitty_Idle(Wave)_15: 417489997
+      HelloKitty_Idle(Wave)_16: -288750636
+      HelloKitty_Idle(Wave)_17: 1700659947
+      HelloKitty_Idle(Wave)_18: -119798987
+      HelloKitty_Idle(Wave)_2: 198291622
+      HelloKitty_Idle(Wave)_3: -1372506504
+      HelloKitty_Idle(Wave)_4: 1560876412
+      HelloKitty_Idle(Wave)_5: -717136104
+      HelloKitty_Idle(Wave)_6: 1253006693
+      HelloKitty_Idle(Wave)_7: 642958405
+      HelloKitty_Idle(Wave)_8: -1417559091
+      HelloKitty_Idle(Wave)_9: -429114985
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
